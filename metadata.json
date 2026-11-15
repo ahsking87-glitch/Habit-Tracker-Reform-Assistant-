@@ -1,5 +1,5 @@
 {
-  "name": "Mizan: Islamic Habit & Wellbeing Framework",
+  "name": "Habit & Reformer Assistant",
   "description": "Cross-platform Flutter architecture, OS-level app blocking engine, offline Adhan prayer routine, and ethical AI behavioral coach.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
