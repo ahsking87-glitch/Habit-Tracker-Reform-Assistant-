@@ -1,8 +1,6 @@
-import 'dart:async';
-import 'package:flutter/material.dart';
+import 'dart:async'; 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../data/mock_data.dart';
-import '../data/onboarding_data.dart';
 import '../models/mizan_models.dart';
 import '../services/adhan_prayer_service.dart';
 import '../services/ai_gateway_service.dart';
