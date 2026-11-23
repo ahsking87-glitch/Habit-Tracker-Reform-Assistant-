@@ -2,7 +2,6 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:lucide_icons/lucide_icons.dart';
-import '../../../../core/providers/app_providers.dart';
 import '../../../../core/theme/mizan_theme.dart';
 
 class OverlayShieldModal extends ConsumerStatefulWidget {
