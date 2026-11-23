@@ -610,7 +610,7 @@ class _WeeklyBarTrendPainter extends CustomPainter {
         ..shader = LinearGradient(
           colors: b.completionRatio <= 0
               ? [
-                  MizanColors.MizanColors.slate800.withAlpha(120),
+                  MizanColors.Colors.amber.withAlpha(120),
                   MizanColors.bgCardElevated,
                 ]
               : isSelected
